@@ -1,0 +1,82 @@
+##################################################################################								## Module 1 ##
+
+Incident Response
+	Cyber-Attck terms :
+		-->Breach: the loss of control,compromise,unauthorized user access or 			   potentialy access PII(personally identifiable information)
+		-->Event : any observable occurence in network or system
+
+		-->Exploit:an attack exploit system vulnerabilities
+
+		-->Incedent: event that actually or may jeoparadise the CIA of inforamtoin	
+		-->Intrusion:security event or combination of security events in which an 			   itruder gains or attempt to gains access to a system or 					 resource without authorization.
+		
+		-->Threat : ancy circumstance or event with the potential to adversely 				impact organizations.
+
+		-->vulnerability:weakness in information system,procedure that could be 				 exploited by a threat source
+
+		-->Zero Day : a previous unkown system vulnerability with the potential 			  of exploitation without detection because it doesn't fit in 				any of recongized patterns.
+	
+	# The Goal of "Incident Response":
+		-the priotiry of this plan is to protect life,health and safety,so the primary goal is to be prepared wich require having policies and a response plan will lead the org through the crisis(crisis management).
+		-every org should have an "incident response plan" to help maintain the availabelity and surviving.
+		-incident response help reduce the impact of an incident so the org can resume its operation sooner .
+
+	# Component of the "Incident Response Plan":
+		-incident response policy should refernce a incident response plan the everyone will follow .
+
+		-->Preparation:
+			-develop a policy 
+			-identify critical data sysetms,single point of failure
+			-train stuff on incident response
+			-implement the incident response team
+			-practice incident identification
+			-identify roles and responsibilites
+			-plan the coordination for the communication with stakeholders(more than one method of communication)
+
+		-->Detction and Analyse:
+			-monitor all possible attack
+			-analyse incident using known data	
+			-prioritize	incident response
+			-Standadize incident documentaion
+
+		-->Containment:
+			-gather evidence
+			-choose an apropriate containment strategy
+			-identify the attacker
+			-isolate the attack
+
+		-->Post-Incident Activities:
+			-identify evidence that may need to be retained
+			-document lessons learned
+
+		Retrospective (preparation,detect and analyse,containment,post-incident)
+
+	#Incident Response Team:
+		-with the need of a Security Operation Center(SOC) an org needs a incident response team 
+		-team members can assisst with the investigation,assessing damage,collecting evidences,reporting the incident and initaiting recovery procedures .
+		-Major responsiblities:
+			-->determine the amount and scope of the incident
+			-->determine if any confidential inforamtion was compromised
+			-->implement any necessary recovery procedures
+			-->suprevise the implementation of any additional security measures
+
+##################################################################################									## Module 2 ##
+
+Business Continuity
+	- The major goal of a Business continuity plan is to sustain business operations while recovering from the incident ex: in the United States if there is a huge Cyber Attack on the network they will use an alternative Military network grid designed for such cases .
+
+	#Components of a Business Continuity Plan :
+		-listing team memebers of the BCP
+		-immediate responese procedures and checklists
+		-notification systems and call trees for alerting personnel that the BCP being enacted
+		-guidance for management 
+		-how and when to inact the plan
+		-contact numbers of critical members of supply chain
+	#Business Impact Analysis (BIA):
+		analysis of information system's requirements,function,interdependencies used to characterize system priorities in the event of a disruption.
+
+##################################################################################									## Module 3 ##
+
+
+
+
