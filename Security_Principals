@@ -1,0 +1,105 @@
+########################################################################################
+								## Module 1 ##
+
+the CIA triad :
+	C for Confidentiality 
+	I for Integrity  
+	A for Availability 
+#confidentiality allows to permit access to authorized personel and at the same time keep the inforamtion secure.
+
+#inegrity is the property of information wherby its recorded ,used , maintained in a way that ensures its accuracy,consistancy and usefulness.
+
+#availiblity means the data is accessible at the time a user need it .
+
+personally identifiable information (PII): all information linked to a person 
+protected health information (PHI): information regardin health status
+data integrity (data is not alterd in any way that could cause harm) and system integrity(keeping the same parametre for the system while processing a data)
+baseline : documented low level of security
+authentication : validating the rightfull onwers of the id by verifying
+	--something you know (password)     ->knowledge based
+	--something you have (id,card)	    ->token based
+	--something you are  (fingerprint,) ->characterisitc based
+
+Mehtods of Authentication :
+	--Signle-factor authentication (SFA)
+	--Multi-factor authentication (MFA)
+
+#Non-repudiation : the inability to deny taking action (sending message, deleting file).
+
+#Privacy : is the right of sharing,distribution informaition about themselves.
+
+#General Data Protection Regulation(GDPR):an EU law for setting regulation that sites how data should be protected in an international scale.
+
+########################################################################################
+									## Module 2 ##
+
+Risk management
+	--asset :something need to be protected
+	--vulnerability : gap or weakness in the protection effort
+	--threat : someone or something that aims to exploit a vulnerability 
+
+Risk identification :
+	--identify risk ro properly communicate it 
+	--everyone's job is to identify risk at any level
+	--identify it to protect against it 
+
+	#Risk assessment : identify,estimating,prioritize to the organization
+	 ->makes a report or a presentation to be given to management
+
+	#Risk treatment : making decision about the best aciton to take according to the risk assessemnt .
+		wether to :
+			-->avoid    : attepmt to eliminate the risk entirely 
+			-->mitigate : actions to reduce or terminate the risk (							  controls,policies.)
+			-->transfer : passing the risk to a third party that is willing to 				  help 
+			-->accept   : taking no action to reduce the likelihood of the risk 
+
+	#Risk priorities : priorites the risk using (qualitatif/quantatif anaylse)
+		one example is to use the risk matrix(propability of risk over its impact)
+		-->decision making is always based on the organization priority (one in japan is more susceptible to tsunami then any others)
+
+	#Risk tolerance : entity's appetite for risk
+		it's up to executive management/and or the Board of directors to set the risk acceptance level for the organization .
+
+#################################################################################
+								## Module 3 ##
+
+Security Controls :
+	management,technical,operational controls that act as a safeguard for the information's CIA.
+
+	#Physical controls : Controls implemented through tangible mechanisms (							 walls,fences,barriers ...)
+
+	#Technical controls (logical conrols): security controls that can be implemented directly into mahcines (ex: settings,configurations ...)
+
+	#Administrative controls (managerial controls):directives, guidelines,they provide frameworks , constaints and standards for human behavior , the scope is the entire organazation .
+
+##################################################################################									## Module 4 ##  (*)
+
+Governance Elements :
+	-->procedures :detailed steps to complete a task 
+	-->policies : provide guidance to ensure the support of the standards (					  ex:strategic direction and priorities).
+	-->standards : used by governance team to provide a framework for policies 				   procedurs... .(compliance documents)
+	-->regulations : laws from the govenment .
+	ex : 
+		#ISO : international organization for standardization
+		#NIST: national insitute of standards and technology
+		#IETF: internet engeneering task force 
+		#IEEE: institute of electrical and electronics engeneers 
+
+
+##################################################################################									## Module 5 ##
+
+Code of Ethics:
+	-->ISC² code of ethics preamble : 
+		
+		# the safety and walfare of society and the common good ,duty to our principals,and each other ,require adhere and seen to be adhere to the highest ethical standards of behaviour
+		# strict adherence to the code is a condition of certification
+	
+	-->ISC² code of ethics canons :
+		
+		# protect the society,common good ,infrastructure ..
+		# act honorably , honestly , justly , responsibly and legally
+		# provide diligent and competent service to principals
+		# advance and protect the profession 
+		
+#################################################################################
+			!!! DON'T FORGET TO READ THE TERMS AND DEFINITIONS SECTION !!!
