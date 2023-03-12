@@ -1,0 +1,32 @@
+##################################################################################								## Module 1 ##
+
+Understand Access Controls Consepts :
+		
+		#Acees controls revolves around limiting what object to be accessed by what subject according to what rules .
+
+		#Controls overview :
+			controls is about granting the appropriate level of access to authorized personnel and denying it for unauthorized ones,
+			Acess is based on three elements:
+				
+				-->Subject : any entity that request access to our assets, the entity maybe a user,program,process... ,a subject is 'Active' if it initiates a request for access.
+				
+				-->Object : anything a subject want to access like a device,process,server... ,when taknig no requests an object is called 'Passive'.
+				
+				-->Ruels : a rule is an instruction developed to allow or deny access by comparing the validated identitiy of the subject against an Access Control List (ACL).
+
+		#Control Assessment :
+			eveluating what level of access an object requires therfore applying the correct level of access it needs .
+
+		#Defense in Depth : 
+			an information security strategy that integrates people,technology and operation capabilities to establish variable barriers across multiple layers and missions of the organization.
+
+		#Least Privilege :
+			it means every user get access to only information he need and no more .
+		
+		#Privileged Access management:
+			its about not assigning a privilege in a static way but only when that user with that role request an access he will be granted the privlilege otherwise no.
+		
+		#Privileged Acounts :
+			privileged acounts are those with permissions beyond those normal acounts such as managers and administrators.
+
+	
