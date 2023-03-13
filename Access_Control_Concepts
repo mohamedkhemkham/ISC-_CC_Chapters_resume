@@ -29,4 +29,35 @@ Understand Access Controls Consepts :
 		#Privileged Acounts :
 			privileged acounts are those with permissions beyond those normal acounts such as managers and administrators.
 
+		#Segregation of Duties :
+			also known as separartion of duties,stands that no one person should control an entire high-risk transaction from start to finish.
+			one implementation of it is the dual control ex:at the bank the volts locks have multiple keys that should be present at the same time to open them each key with the position of different members .
+
+			-->two person integrity : at least two persons should be present in the area .
+		
+		#Authorized vs Unauthorized personnel:
+			subjects are authorized access to objects after authentication .
+			authentication is done by comparing the presented data with the one in the access control list or matrix.
+
+##################################################################################									## Module 2 ##
+
+Physical Access Control :
+	Items that you can physically touch, inclusing physical mechanisms deployed as an access control ,ex: security guards,fences,motion detectors ,gates ... .
+	this kind of controls aims at first to protect the most valiable asset which is humans then the security of other objects .
+
+	#types of physical controls :
+		-->Badge systems and Gates entry:
+			any mechanism such as turnstiles,mantraps for human traffic or remote locked doors.
+		
+		-->Environmental Design :
+			CPTED:crime prevention through environmental design , tries to develope a safer workspaces through passive design elements .
+		
+		-->Biometrics :  
+			to authenticate a user's identity ,biometrics uses characterstics unique to the individual seeking access ,it has two processes:
+				-Enrollement : register your biometric data 
+				-verification :user present the biometric data then it can be compared to the stored one .
+
+	#Monitoring :
+		the use of physical access and monitoring personnel and equipment entering and leaving as well as auditing/logging 
+
 	
