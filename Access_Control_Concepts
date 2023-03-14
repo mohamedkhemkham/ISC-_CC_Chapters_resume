@@ -58,6 +58,34 @@ Physical Access Control :
 				-verification :user present the biometric data then it can be compared to the stored one .
 
 	#Monitoring :
-		the use of physical access and monitoring personnel and equipment entering and leaving as well as auditing/logging 
+		the use of physical access and monitoring personnel and equipment entering and leaving as well as auditing/logging ex: Cameras,Gurad,Alarms,Logs... .
+
+##################################################################################								## Module 3 ##
+
+Understand Logical Access Controls:
+	Electronic Controls to prevent access to systems 
+
+	#Types of logical controls :
+		-passwords
+		-badges/token readers connectes to a system
+		-Biometrics
+
+	#Descretionary Access Control :
+		an access conrol policy that is enforced over all objects and subjects in an information system.
+			-->when a subject is granted access to the system it can do :
+				-Pass the information to other subjects,objects
+				-Grant its privileges to other subjects
+				-Change security attributes on subjects,objects,systems ..
+				-Choose the security attributes to be assigned to new subjects.
+				-Change the rules governing access controls.
+
+	#Mandatory Access Control :
+		Only properly designated security admins,as trusted subjects,can modify any of the security rules that are established for subjects and objects.
+		with this in action a subject can't do any of the actions listed above
+
+	#Role Based Access Control :
+		simply giving access based on the subject role ,ex:only HR have access to personnel information .
+
+##################################################################################			!!! DON'T FORGET TO READ THE TERMS AND DEFINITIONS SECTION !!!
 
 	
