@@ -1,0 +1,38 @@
+##################################################################################								## Module 1 ##
+
+Understand Data Securtiy
+		
+		#Data Handling:
+			data itself has a life cycel that it goes through from construction to its destruction :
+			-->create : creating the knowledge 
+			-->Store : storing or recording it in some fashion 
+			-->Use : using this knowledge (may be update it) 
+			-->Share : share the data with others.
+			-->archive: archive it when its not temporarily needed
+			-->Destroy: destroy the data when its no longer needed
+
+		#Data Handling Practices :
+			data has value and it should be handled properly , so first it should be classified:
+			-->classification:
+				this classification should dectate rules and restriction about how this information should be used,stored,shared with others.
+				Labeling and handel the inforamtion according to the organizational impacts of this information on its CIA
+
+			-->Labeling :
+				Security labels are part of implementing controls to protect classified information with a simple way of organizing from low to high .ex: highly restricted : for very sensitive data ,low sensitivity: compromised data with this level could cause minor delays or distruptions... .
+
+			-->Retention :
+				Information should be kept as long as it has value .Thus retention periods should be detremined .
+				Records Retention :
+					policies indicate how long an organization is required to maintain information and assets guarantig that :
+						-personnel understand various retention requirements 
+						-retention requirements for each information type should be appropriatly documented 
+						-system,processes,individuals should retain information according to the required schedule.
+
+			-->Destruction:
+				Data remaining on a media after deleting called remanence which is a security concern, to reduce this danger :
+					-clear the device or the system , envlolving writing multipe random data over and over (overwirting,zerowriting).
+					-purging the device or the system physically to reduce the 'ghost' data left especailly the magnetic devices ,for that degaussing is more effective.
+					-physically destruction of the device is the ultimate remedy of data remanence .
+
+		#Logging and Monitoring Security Events :
+			 
