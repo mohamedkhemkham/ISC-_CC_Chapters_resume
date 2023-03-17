@@ -83,5 +83,27 @@ Understand Data Securtiy
 					-anything else it can be represented in a digital form 
 
 			#Symmetric Encryption:
+				the main characteristic is that it uses the same key for both encryption and decryption.
+				downsides:
+					-key distribution : the use of an out-of-band key distribution is mandatory to prevent 'Man In The Middle'attacks .
+					-any party with the knowledge of the key can access/change the messages .
+					-scalability : each individual wish to connect needs a new pair of keys =>number of keys grows rapidly .
+
+			#Asymmetric Encryption:
+				using one key to encrypt and another key to decrypt(privat/public)keys.
+				this pair of keys should be generated wher the public is available publicly so anyone can encrypt a message using this key and only the recipient has the private key to decrypt the message this will reduce the scalability of making keys.
+				downsides:
+					the calculation of the decryption and encryption is very slow compared to symmetric ,so it's not used for enctypting large data or for speed transactions.
+
+			#Hashing :
+				a hash function takes input set of data (arbitrary size) and return a fixed size output called hash value ,this is the way of ensuring integrity of messages today .
+				hashing uses :
+					message digest : by generating a hash of the message and send it with the message ,so the recipient can verify the integrity of it by generating another hash and comapre it with the one attached with the message.
+				a hash function should be :
+					-Useful :easy to compute the hash value of any given msg
+					-Nonreversible:it is computationally infeasable to reverse a hash process .
+					-content integrity assurance.
+					-Unique : no two different msg can give the same hash
+					-Deterministic: the same input always generate the same outpuy.
 				
 
