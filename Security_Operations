@@ -105,5 +105,27 @@ Understand Data Securtiy
 					-content integrity assurance.
 					-Unique : no two different msg can give the same hash
 					-Deterministic: the same input always generate the same outpuy.
-				
+				uses of the hash :
+					digital signature,message authenticatoin codes ,fingerprinting to detect duplicate data or uniquley identify files or as a checksum(sum of the digits)
+
+#################################################################################								## Module 2 ##
+
+Understand System Hardening:
+	
+	#Configuration Management:
+		a process used to ensure that the only changes made to a system are those that have been authorized and validated
+		-->Identification : 
+			baseline identification of a system and all its components,interfaces and documentation.
+		-->Baseline : 
+			is a secrutiy minimum level of protection that can be used as a reference point.
+		-->Change Control:
+			an update process of requesting changes to a baseline,by mean of making changes to one or more components in that baseline,a review and approval process for all changes.
+		-->Verification and Audit:
+			a regression and validation process that may involve testing and analysis, to verify that nothing in the system has been broken by new updates
+
+#################################################################################								## Module 3 ##
+
+Best Practice Security Policies:
+	
+
 
