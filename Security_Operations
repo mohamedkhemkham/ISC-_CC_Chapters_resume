@@ -127,5 +127,46 @@ Understand System Hardening:
 
 Best Practice Security Policies:
 	
+	#Commone security policies:
+		-Data handling policy:
+			regulate the appropriate use of the data , defining wether the data is for use within the company ,restrictes for certain roles only or available publicly .
 
+		-Password Policy:
+			a policy that define expectations of systems and users.
+
+		-Acceptable use policy (AUP):
+			defines the acceptable use of the organization network and and systems,it should dtail the appropriate use of the organization assets . AUP may generally include:
+				-Data access
+				-System access
+				-Data disclosure 
+				-Passwords
+				-Data retention
+				-Internet usage
+				-Company device usage
+
+		-Bring Your Own Device(BYOD) policy:
+			organization may allow workers to bring their own devices BYOD,
+
+		-Privacy policy:
+			often personnel have access to (PII),It is imperative that the organization documents that the personnel understand and acknowledge the organization's policies ,this type of document is like the (AUP) but is related to privacy .
+
+		-Change management policy:
+			is a descipline of transitioning from a current state to another future state ,consists three major activities :
+				deciding to change ,making the change ,confirming that the change has been correctly accomplished
+
+	#Policies will be set according to the organization's need ,each of this policies should have a penalty or a consequence attached in case of noncompliance .
+
+	#Change management components :
+		-Request For Change (RFC):	
+			the first stage of change management wherein a change in procedure or a product is sought by a stakeholder.
+		-Approval :
+			Evaluating the RFC for completeness,stakeholder reviews ,resource identification and allocation,Appropriate approvals or rejections with their documentation.
+		-Rollback:
+			depending on the type of change a variety of activities may need to be completed including :
+				scheduling the change ,	testing the change ,verifying the rollback procedures ,implementing the change,evaluate the change for proper and effective operation 
+
+#################################################################################								##	Module 4 ##
+
+Understand Security Awareness Training
+	The purpose of the security awareness training is that everyone knows what is expected form them  
 
