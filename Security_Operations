@@ -168,5 +168,45 @@ Best Practice Security Policies:
 #################################################################################								##	Module 4 ##
 
 Understand Security Awareness Training
-	The purpose of the security awareness training is that everyone knows what is expected form them  
+	The purpose of the security awareness training is that everyone knows what is expected form them .
+
+	#Three major types of learning org uses :
+		-Education :
+			improve learners understandig of the various ideas and the ability to how they relate them to thier experience and apply that learning in useful ways.
+		-Training:
+			Focuses on building proficiency in a specific set of skills or actions.increasing decision making ability.
+		-Awareness:
+			activities that attract and engage the learners attention by facing issues,problems,concern or need.
+
+		none of the methods have expressed or implied formality,location or target audience.
+
+	#Training Examples :
+		(fire safety)
+		-education will help workers to understand the interaction of the fire and smoke detectors suppression systems,alarms and their interaction with elctrical power,vent systems.
+
+		-training would provide task-specific with detailed learning about the proper action to take in a situation, safety systems failure .
+
+		-awareness activities would include not only posting the appropriate signage,marketing but other indicators to help detect anomalities.
+
+		#Phishing:
+			on of the various attacks to target individuals,entire departements,organizations and security professionals should be aware of and be prepared for .
+			phishing attacks that attempts to target highly placed officials with sizable assets are known as "Whaling Attacks".
+
+		#Social Engineering:
+			should be part of any securtiy awarness program ,people need to be reminded of types of social engineering so they can avoid it .
+			some SE tactis:
+				->phone phishing (vishing):
+					recreate a legitimate sound of a bank worker or other institution,then extract PIN code from the victim.
+				->pretexting:
+					human equivalent of phishing.
+				->Quid pro quo:
+					request of your credentials for a gift .
+				->tailgating:
+					following an authorized user to a restricted area .
+			#Password protection:
+				we use many different passwords for many systems, many password managers will sotre these passwords for us so we don't need to remember them all, a major down side of this if the password manager system is compromised so our credentials.
+				thus the use of different passwords should be recommended in every organization.
+#################################################################################			!!! DON'T FORGET TO READ THE TERMS AND DEFINITIONS SECTION !!!
+
+
 
