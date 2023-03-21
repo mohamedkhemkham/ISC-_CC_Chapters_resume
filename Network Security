@@ -1,0 +1,35 @@
+##################################################################################								## Module 1 ##
+
+Understand computer Networking
+	
+	#what is Networking:	
+		a network is simply two or more computers linked together to share data.
+		#Types of Network:
+			-->Local Area Network(LAN):
+				typically network that span a single floor or building.
+
+			-->Wide Area Network(WAN):
+				long distance connection between geographically remote networks
+		
+		#Network Devices:
+			-Hub:
+				connect multiple devices in a network, boradcastin data to all devices (less smart).
+			-Switch:
+				known as intelligent hub, switches can route traffic to specific port/device in a network.
+			-Router:
+				used to route traffic flow on networks, better than the siwtches routers can determine the most efficient "route"(~path).
+			-Firewall:
+				manage and control network traffic and protect the network by filtering the traffic based on a set of defined rules.
+			-Server:
+				a computer that provides information to other computers(ex: web servers).
+			-Endpoint:
+				it is the end of a communication link.One end is at the server and the other end is a client computer trying to make request to use the server.
+
+		#Other Terms:
+			-Ethernet:
+				(IEEE 802.3) is a standard that defines wired connectoins of networked devices.
+			-Device Address:
+				*Media Access Control (MAC):
+					every network device is assigned a MAC address made of 6 bytes where the first 3 denote the vendor ,no two devices can have the same MAC address on the same network.
+				*Internet Protocol(IP):
+					a logical address that is used for communication ,it represent a network interface within the network.   
