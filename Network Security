@@ -32,4 +32,34 @@ Understand computer Networking
 				*Media Access Control (MAC):
 					every network device is assigned a MAC address made of 6 bytes where the first 3 denote the vendor ,no two devices can have the same MAC address on the same network.
 				*Internet Protocol(IP):
-					a logical address that is used for communication ,it represent a network interface within the network.   
+					a logical address that is used for communication ,it represent a network interface within the network.
+
+	#Networking Models:	
+		every goal of all communication is to share and exchange information ,those goals can be expressed in network as :
+			-provide relaible communication between hosts
+			-isolate function is layers
+			-use packet as the basis of communication
+			-standardize routing,addressing and control
+			-allow layers beyong internetworking to add functionality
+			-be scalable and resilient
+
+			A network model should have at least two layers(upper one and lower one)
+	
+	#Open System Interconnection(OSI)model:
+		it is an absrtact framework or theoretical model for how protocols should function.
+		consisting of 7 layers referred to them either by name (ex:transprt layer)or by number(ex:layer 4).
+		layers (5-7) are referred to as Data, each layer has the potential of encapsulation which is adding headers and possibly footers by a protocol.
+		encapsulation occurs when data is moving down the model, where the inverse(de-encapsulation) happens when data is moving upward.
+
+	#Transmition Control Protocol/Internet Protocol (TCP/IP):
+		the TCP/IP protocol stack is the first networking model for networking consistin :
+			-application layer
+			-transport layer
+			-internet layer
+			-network interface layer
+		at the application layer protocols include : telnet,FTP,SMTP,DNS
+		the primary transport protocols used are :TCP,UDP
+		in the internet layer the ICMP
+
+	#Internet Protocol(IPv4,IPv6):
+	
