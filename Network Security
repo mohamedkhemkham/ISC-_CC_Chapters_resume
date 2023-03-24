@@ -62,4 +62,38 @@ Understand computer Networking
 		in the internet layer the ICMP
 
 	#Internet Protocol(IPv4,IPv6):
-	
+		IP is deployed in two main version IPv4 with 32-bit address space and IPv6 with 128-bit address space.
+		to ease network administration network is devided into subnets,for distinguishing a subnet mask is used to define the part of the address used for the subnet.
+		IPv6 is a modernization of IPv4 eleminating major weaknesses:
+			-much larger address field.
+			-improved security, IPsec is mandatory.
+			-improved quiality of service.
+
+	#WIFI:
+		wireless networking, so systems are not tied to a cable and roam freely in the range of the wifi.
+
+	#Security of network:
+		TCP/IP vulnerability are numerous, improper implemented TCP/IP stack are vulnerable to many attacks such:
+			-DoS/DDoS : 
+				the prevention of authorized access to resources or 			delaying of time-critical responses for operation
+			-Fragment attack:
+				the attacker framgents the traffic in a way that is unreadable by the system.
+			-oversized packet attack:
+				purposly sending a packet that is bigger than the expected causing system failure.
+			-spoofing attack:
+				faking the sending address of a transmision to gain access into a system.
+			-Man-In-The-Middle (MITM)attack :
+				the attacker position himself between the sender and the system so he can intercept and alter data traveling.
+
+	#Ports and Protocols :
+		-physical Ports:
+			the pots on the routers,switches,servers,computers, that you connect to using wires to make a network
+		-logical Ports:
+			logical port or 'socket' is an address number that both ends agree to comunicate through.
+			ports allow a single ip address to support multiple communication at the same time, each using different port number.
+			data types are mapped using port number associated with services, ex:
+			web http is 80,https is 443.
+			Ports numbers:
+				(0-1023):well known or common protocols like DNS,TCP/IP,SMTP... .
+				(1024-49151):registred ports ,associated with proprietary  
+
