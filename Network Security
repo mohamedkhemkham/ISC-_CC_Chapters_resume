@@ -95,5 +95,25 @@ Understand computer Networking
 			web http is 80,https is 443.
 			Ports numbers:
 				(0-1023):well known or common protocols like DNS,TCP/IP,SMTP... .
-				(1024-49151):registred ports ,associated with proprietary  
+				(1024-49151):registred ports ,associated with proprietary application from vendors/developers.	
+				(49152-65535):private or dynamic ports.whenever a service is requested that is associated with a well-known or registred ports,those services respond with a dynamic port for that session and then released.
+	
+	#Secure ports:
+		some network protocols send data in plaintext, meaning they are vulnerable to snifing(tactic for inspecting the packets traveling in the network).
+		some insecure protocole and thier secure alternatives:
+			-FTP File Transport Protocol,port:21 ==>SFTP, port:22*
+			-Telnet trasnfer information form host to server in plaintext,port:23 ==>SSH, Secure SHell, port: 22*
+			-SMTP Simple Mail Transfer Protocol,port:25 ==>SMTP with TLS,port:587
+			-Time ,port:37 ==>NTP Network Time Protocol ,port:123
+			-DNS Domain Name Server, port:53==>DoT(DNS over TLS),port:853
+			-HTTP web protocol, port:80==>HTTPS secure version(SSL,TLS), port:443
+			-SNMP Simple Network Management Protocol, port:	161/162==>SNMPv2,SNMPv3
+			-SMB Server Message Block, port:445==>NFS Network File System, port:2049
+			-LDAP Lightweight Directory Access Protocols,port:389==>LDAPS Secure
+
+#################################################################################								##	Module 2  ##
+
+
+Understand Network(Cyber)Threats and attacks
+
 
