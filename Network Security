@@ -115,5 +115,30 @@ Understand computer Networking
 
 
 Understand Network(Cyber)Threats and attacks
-
-
+	
+	#Types of Threats :
+		-->Spoofing:
+			attack to gain access to target system with a falsified identity.
+		-->Phisiing:
+			misdirect legitimate users to malicious websites through the abuse of URLs in emails.
+		-->DOS/DDOS:
+			a Denial-Of-Service attack is a network resource consumption with the goal of preventing legitimtae activity on a system.when it involv numerous secondary systems its called 'Distributed denial of Service DDOS'
+		-->Virus:
+			the earliest form of malicious code to plague securtiy systems, with two main funcitoin (propagation~self-replicating and destruction)
+		-->	Worm:
+			malicious code object with destructive potential with the ability to propagate without human intervention.
+		-->Trojan:
+			named after the ancient story, trojan is a software that appears benevolent but carries malicious,behind-the-scene payload.
+		-->On-Path attack:
+			attackers place themselves between two devices(server,client)to intercept or modify information transformed, also known as Man in The Middle(MITM)attack.
+		-->Side Channel:
+			a passive,noninvasive attack to observe the operation of a device.
+		-->Advanced Persistent Threat(APT):
+			threats that demonstrate an unusually high level of technical sophistication spaning months or years.
+		-->Insider Threat:
+			threats that arise from individuals who are trusted by the organization.
+		-->Malware:
+			a program inserted into the system with the intent of compromising the confidentiality.
+		-->Ransomware:
+			often uses Cryptography to lock files on affected device and require payment of a ransom fee in retuen of unlocking those files.
+			
